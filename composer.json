@@ -1,0 +1,14 @@
+{
+    "name": "xulinranran/a",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "xulinranran",
+            "email": "645009084@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
